@@ -1,41 +1,35 @@
 setwd("/Users/rishigurjar/desktop/terrerlab2022")
-
-# Load packages
-
-# If you haven't installed the packages before, use e.g.:
-# install.packages("sp")
-
 library(sp)
-library(rgdal)
+library(terra)
 library(raster)
 library(ggplot2)
 library(viridis)
 library(rasterVis)
 
 # Load data
-tay <- raster('/Users/rishigurjar/Desktop//Users/rishigurjar/Desktop/taycrop.tifff')
+dat <- raster('/Users/rishigurjar/Desktop/terrerlab2022/AGB_Mangrove/global_mangrove_agb.tif')
 
-# Get properties of the Tay raster
-tay
+# Get properties of the raster
+dat
 
-b1 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=1)
-b2 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=2)
-b3 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=3)
-b4 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=4)
-b5 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=5)
-b6 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=6)
-b7 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=7)
-b8 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=8)
-b9 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=9)
-b10 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=10)
-b11 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=11)
-b12 <- raster('/Users/rishigurjar/Desktop/taycrop.tiff', band=12)
-
-compareRaster(b2, b3)
+plot(dat)
+e <- drawExtent()    # run this line, then click twice on your plot to define a box
+cropped_dat <- crop(dat, e)
+plot(cropped_dat)
+f <- drawExtent()    # run this line, then click twice on your plot to define a box
+cropped_dat2 <- crop(cropped_dat, f)
+plot(cropped_dat2, main="Above-ground biomass (mangroves) somewhere in SE Asia")
 
 
-plot(b8)
 
-image(b8)
 
-image(b8, col= viridis_pal(option="D")(10), main="Sentinel 2 image of Loch Tay")
+
+
+dat <- raster('/Users/rishigurjar/Desktop/terrerlab2022/CMS_Global_Map_Mangrove_Canopy_1665/data/Mangrove_hba95_Indonesia.tif')
+dat
+plot(dat)
+e <- drawExtent()    # run this line, then click twice on your plot to define a box
+cropped_dat <- crop(dat, e)
+plot(cropped_dat)
+
+
