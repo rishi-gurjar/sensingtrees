@@ -1,525 +1,654 @@
-﻿Paper,Year,TC (mg cm-3),TC (%),IC (mg cm-3),IC (%),Location,Depth,Notes,Disturbance
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0483,2018,14.343,,0.000,0.000,Chengmai,0-20,No TC in % form,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0484,2018,9.906,,0.000,0.000,Chengmai,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0485,2018,8.768,,0.120,1.364,Chengmai,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0486,2018,10.306,,0.021,0.203,Chengmai,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0487,2018,12.362,,0.736,5.951,Chengmai,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0488,2018,7.790,,2.427,,Chengmai,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0489,2018,6.381,,2.819,,Chengmai,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0490,2018,6.087,,2.640,,Chengmai,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0491,2018,6.732,,2.495,,Chengmai,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0492,2018,7.370,,2.317,,Chengmai,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0493,2018,8.695,,2.595,,Chengmai,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0494,2018,10.121,,2.905,,Chengmai,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0495,2018,13.208,,2.788,,Chengmai,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0496,2018,12.182,,2.619,,Chengmai,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0497,2018,10.848,,2.401,,Chengmai,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0498,2018,21.997,,2.046,,Chengmai,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0499,2018,16.033,,2.541,,Chengmai,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0500,2018,14.662,,2.957,,Chengmai,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0501,2018,14.651,,2.743,,Chengmai,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0502,2018,15.867,,2.615,,Chengmai,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0503,2018,35.007,,5.688,16.247,Dongchang-Caiqiao,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0504,2018,30.425,,5.338,17.544,Dongchang-Caiqiao,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0505,2018,27.067,,2.112,7.804,Dongchang-Caiqiao,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0506,2018,25.078,,0.837,3.339,Dongchang-Caiqiao,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0507,2018,22.870,,0.363,1.587,Dongchang-Caiqiao,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0508,2018,29.835,,2.002,,Dongchang-Caiqiao,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0509,2018,24.705,,2.224,,Dongchang-Caiqiao,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0510,2018,21.046,,2.312,,Dongchang-Caiqiao,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0511,2018,23.720,,2.375,,Dongchang-Caiqiao,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0512,2018,23.535,,2.184,,Dongchang-Caiqiao,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0513,2018,36.433,,1.282,,Dongchang-Caiqiao,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0514,2018,20.976,,1.941,,Dongchang-Caiqiao,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0515,2018,20.034,,2.492,,Dongchang-Caiqiao,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0516,2018,32.854,,1.581,,Dongchang-Caiqiao,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0517,2018,29.140,,1.589,,Dongchang-Caiqiao,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0518,2018,26.536,,1.607,,Dongchang-Caiqiao,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0519,2018,22.504,,2.307,,Dongchang-Caiqiao,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0520,2018,10.589,,2.671,,Dongchang-Caiqiao,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0521,2018,12.190,,2.574,,Dongchang-Caiqiao,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0522,2018,9.837,,3.043,,Dongchang-Caiqiao,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0523,2018,40.773,,10.335,,Danzhou,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0524,2018,38.240,,1.645,,Danzhou,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0525,2018,28.121,,2.039,,Danzhou,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0526,2018,28.732,,2.041,,Danzhou,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0527,2018,24.569,,2.252,,Danzhou,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0528,2018,27.665,,0.713,2.579,Danzhou,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0529,2018,13.978,,0.053,0.381,Danzhou,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0530,2018,10.564,,1.331,12.598,Danzhou,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0531,2018,6.663,,0.006,0.092,Danzhou,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0532,2018,3.530,,0.299,8.462,Danzhou,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0533,2018,32.541,,1.922,,Danzhou,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0534,2018,25.940,,1.980,,Danzhou,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0535,2018,24.172,,2.356,,Danzhou,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0536,2018,15.829,,2.369,,Danzhou,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0537,2018,29.545,,1.626,,Danzhou,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0538,2018,30.651,,1.469,,Danzhou,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0539,2018,19.730,,1.832,,Danzhou,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0540,2018,20.326,,2.414,,Danzhou,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0541,2018,10.902,,2.241,,Danzhou,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0542,2018,28.028,,1.719,,Danzhou,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0543,2018,20.824,,2.078,,Danzhou,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0544,2018,17.471,,2.007,,Danzhou,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0545,2018,14.912,,1.960,,Danzhou,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0546,2018,13.986,,1.999,,Danzhou,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0547,2018,34.781,,1.234,,Danzhou,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0548,2018,28.544,,1.149,,Danzhou,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0549,2018,18.121,,1.857,,Danzhou,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0550,2018,16.061,,2.204,,Danzhou,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0551,2018,21.793,,2.479,,Danzhou,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0552,2018,17.730,,0.966,,Dongfang,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0553,2018,12.670,,1.006,,Dongfang,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0554,2018,20.383,,1.308,,Dongfang,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0555,2018,32.371,,1.372,,Dongfang,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0556,2018,20.378,,1.093,,Dongfang,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0557,2018,14.326,,1.251,,Dongfang,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0558,2018,7.710,,2.278,,Dongfang,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0559,2018,16.862,,2.632,,Dongfang,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0560,2018,26.391,,2.148,,Dongfang,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0561,2018,10.893,,0.804,,Dongfang,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0562,2018,16.425,,1.085,,Dongfang,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0563,2018,29.411,,1.612,,Dongfang,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0564,2018,28.724,,1.498,,Dongfang,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0565,2018,12.475,,0.991,,Dongfang,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0566,2018,18.369,,1.371,,Dongfang,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0567,2018,29.045,,1.674,,Dongfang,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0568,2018,33.892,,1.817,,Dongfang,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0569,2018,15.394,,2.642,17.161,Dongfang,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0570,2018,13.303,,1.992,14.973,Dongfang,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0571,2018,18.871,,2.293,12.152,Dongfang,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0572,2018,32.979,,5.673,17.203,Dongfang,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0573,2018,29.715,,5.894,19.837,Dongfang,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0574,2018,6.028,,0.856,,Sanya,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0575,2018,10.014,,2.792,,Sanya,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0576,2018,13.253,,2.667,,Sanya,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0577,2018,12.998,,1.776,,Sanya,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0578,2018,11.689,,2.130,,Sanya,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0579,2018,15.834,,7.159,45.214,Sanya,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0580,2018,23.111,,13.089,56.634,Sanya,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0581,2018,27.546,,15.152,55.007,Sanya,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0582,2018,37.059,,1.294,,Sanya,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0583,2018,41.633,,1.478,,Sanya,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0584,2018,38.430,,1.334,,Sanya,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0585,2018,44.241,,1.657,,Sanya,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0586,2018,14.359,,0.816,,Sanya,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0587,2018,15.955,,2.439,,Sanya,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0588,2018,16.557,,1.885,,Sanya,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0589,2018,14.400,,2.634,,Sanya,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0590,2018,21.873,,1.898,,Sanya,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0591,2018,12.417,,2.524,,Sanya,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0592,2018,19.335,,2.323,,Sanya,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0593,2018,19.264,,2.356,,Sanya,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0594,2018,20.636,,2.160,,Sanya,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0595,2018,19.424,,0.000,0.000,Sanya,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0596,2018,21.360,,2.164,10.130,Sanya,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0597,2018,52.228,,38.597,73.900,Sanya,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0598,2018,73.186,,60.762,83.024,Sanya,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0599,2018,17.301,,1.816,,Sanya,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0600,2018,17.309,,1.939,,Sanya,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0601,2018,18.011,,1.746,,Sanya,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0602,2018,15.632,,1.673,,Sanya,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0603,2018,11.074,,2.197,,Sanya,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0604,2018,19.197,,1.640,,Sanya,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0605,2018,4.910,,2.612,,Sanya,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0606,2018,4.291,,2.828,,Sanya,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0607,2018,3.357,,2.697,,Sanya,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0608,2018,4.293,,2.760,,Sanya,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0609,2018,20.152,,1.274,,Sanya,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0610,2018,16.289,,1.629,,Sanya,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0611,2018,12.511,,1.774,,Sanya,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0612,2018,6.800,,2.198,,Sanya,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0613,2018,7.458,,2.597,,Sanya,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0614,2018,31.367,,1.245,,Sanya,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0615,2018,29.511,,1.156,,Sanya,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0616,2018,27.232,,1.328,,Sanya,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0617,2018,19.726,,1.617,,Sanya,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0618,2018,22.000,,1.131,,Sanya,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0619,2018,24.349,,1.448,,Sanya,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0620,2018,17.950,,1.803,,Sanya,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0621,2018,11.441,,2.081,,Sanya,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0622,2018,12.821,,2.485,,Sanya,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0623,2018,15.623,,5.356,,Sanya,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0624,2018,28.454,,0.588,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0625,2018,31.605,,0.986,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0626,2018,31.636,,1.454,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0627,2018,28.930,,1.602,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0628,2018,25.529,,1.394,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0629,2018,18.818,,1.490,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0630,2018,16.745,,1.946,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0631,2018,13.601,,2.150,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0632,2018,10.250,,1.961,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0633,2018,33.217,,1.017,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0634,2018,43.689,,0.636,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0635,2018,47.894,,1.174,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0636,2018,50.539,,1.516,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0637,2018,44.999,,1.678,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0638,2018,20.673,,1.949,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0639,2018,22.248,,2.215,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0640,2018,24.582,,2.229,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0641,2018,20.830,,2.026,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0642,2018,18.742,,2.086,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0643,2018,32.578,,1.016,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0644,2018,21.905,,2.351,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0645,2018,15.870,,2.449,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0646,2018,33.079,,2.003,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0647,2018,25.956,,2.469,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0648,2018,21.403,,0.950,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0649,2018,25.490,,1.229,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0650,2018,18.393,,2.238,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0651,2018,14.188,,2.262,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0652,2018,17.995,,1.832,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0653,2018,10.608,,2.026,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0654,2018,26.319,,1.296,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0655,2018,23.010,,1.331,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0656,2018,21.542,,1.538,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0657,2018,17.410,,1.727,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0658,2018,35.630,,1.400,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0659,2018,35.766,,1.250,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0660,2018,36.133,,1.763,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0661,2018,44.442,,1.754,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0662,2018,39.087,,1.470,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0663,2018,12.521,,2.169,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0664,2018,22.579,,2.070,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0665,2018,34.577,,1.861,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0666,2018,34.520,,1.869,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0667,2018,33.136,,2.079,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0668,2018,28.425,,1.534,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0669,2018,32.830,,1.336,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0670,2018,40.334,,1.128,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0671,2018,36.883,,1.386,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0672,2018,41.058,,1.562,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0673,2018,34.464,,1.056,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0674,2018,43.883,,0.796,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0675,2018,53.125,,0.750,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0676,2018,37.289,,1.020,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0677,2018,30.860,,1.418,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0678,2018,20.312,,1.812,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0679,2018,17.004,,1.690,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0680,2018,17.337,,1.904,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0681,2018,22.137,,2.007,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0682,2018,13.288,,1.966,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0683,2018,5.503,,2.010,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0684,2018,7.327,,2.244,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0685,2018,6.279,,2.570,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0686,2018,23.597,,2.118,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0687,2018,23.377,,2.293,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0688,2018,33.211,,2.152,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0689,2018,27.160,,2.278,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0690,2018,20.557,,2.470,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0691,2018,15.688,,2.160,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0692,2018,19.935,,2.126,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0693,2018,22.425,,2.094,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0694,2018,30.647,,2.240,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0695,2018,36.296,,1.837,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0696,2018,31.110,,1.810,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0697,2018,35.876,,2.010,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0698,2018,40.324,,2.062,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0699,2018,49.171,,2.383,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0700,2018,23.797,,1.851,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0701,2018,21.957,,1.994,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0702,2018,24.095,,1.795,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0703,2018,32.818,,1.649,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0704,2018,37.533,,1.361,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0705,2018,36.158,,1.688,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0706,2018,29.704,,2.039,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0707,2018,23.675,,2.196,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0708,2018,15.411,,2.438,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0709,2018,31.200,,1.713,,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0710,2018,33.319,,1.129,,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0711,2018,16.835,,1.488,,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0712,2018,9.774,,2.489,,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0713,2018,9.006,,2.722,,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0714,2018,4.693,,0.272,5.799,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0715,2018,15.778,,0.000,0.000,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0716,2018,17.878,,1.233,6.899,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0717,2018,13.424,,0.000,0.000,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0718,2018,27.739,,0.000,0.000,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0719,2018,26.556,,12.026,45.285,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0720,2018,43.091,,29.205,67.776,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0721,2018,62.037,,55.783,89.919,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0722,2018,52.427,,46.646,88.972,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0723,2018,38.250,,24.025,62.809,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0724,2018,52.739,,38.761,73.497,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0725,2018,63.870,,45.725,71.590,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0726,2018,53.693,,39.709,73.955,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0727,2018,45.886,,34.112,74.342,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0728,2018,51.929,,36.348,69.996,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0729,2018,73.417,,56.816,77.388,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0730,2018,73.120,,53.165,72.708,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0731,2018,68.796,,59.024,85.795,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0732,2018,59.772,,47.795,79.963,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0733,2018,72.121,,53.510,74.195,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0734,2018,80.233,,58.124,72.444,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0735,2018,82.111,,63.325,77.121,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0736,2018,75.432,,65.842,87.287,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0737,2018,41.393,,29.228,70.611,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0738,2018,52.690,,35.347,67.086,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0739,2018,60.115,,43.940,73.094,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0740,2018,71.395,,57.752,80.890,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0741,2018,71.516,,60.573,84.698,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0742,2018,53.365,,39.581,74.170,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0743,2018,70.910,,56.070,79.073,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0744,2018,76.994,,60.109,78.069,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0745,2018,78.823,,64.935,82.381,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0746,2018,47.801,,29.935,62.625,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0747,2018,56.973,,34.151,59.942,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0748,2018,67.809,,42.754,63.051,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0749,2018,71.145,,57.973,81.486,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0750,2018,56.708,,34.933,61.602,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0751,2018,56.439,,41.097,72.816,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0752,2018,67.177,,50.903,75.774,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0753,2018,72.385,,63.624,87.896,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0754,2018,50.133,,31.467,62.767,Qinglan Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0755,2018,58.670,,44.567,75.962,Qinglan Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0756,2018,74.333,,66.033,88.834,Qinglan Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0757,2018,72.930,,67.149,92.074,Qinglan Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0758,2018,65.858,,59.797,90.798,Qinglan Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0759,2018,20.938,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0760,2018,19.179,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0761,2018,13.966,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0762,2018,9.801,,0.203,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0763,2018,8.428,,0.572,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0764,2018,20.297,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0765,2018,18.599,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0766,2018,12.047,,0.294,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0767,2018,11.680,,0.377,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0768,2018,8.348,,0.299,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0769,2018,23.685,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0770,2018,18.659,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0771,2018,13.674,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0772,2018,11.083,,0.441,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0773,2018,10.549,,0.000,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0774,2018,20.236,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0775,2018,19.704,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0776,2018,12.506,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0777,2018,8.385,,0.297,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0778,2018,7.807,,0.628,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0779,2018,25.267,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0780,2018,17.053,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0781,2018,9.962,,0.022,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0782,2018,7.318,,0.358,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0783,2018,7.385,,0.857,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0784,2018,22.771,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0785,2018,25.978,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0786,2018,15.788,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0787,2018,15.690,,0.000,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0788,2018,11.694,,0.000,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0789,2018,28.878,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0790,2018,24.450,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0791,2018,23.701,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0792,2018,17.404,,0.000,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0793,2018,16.529,,0.464,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0794,2018,34.299,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0795,2018,28.609,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0796,2018,25.121,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0797,2018,22.846,,0.000,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0798,2018,21.038,,0.000,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0799,2018,33.507,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0800,2018,28.825,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0801,2018,23.917,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0802,2018,20.484,,0.174,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0803,2018,19.203,,0.503,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0804,2018,21.864,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0805,2018,17.080,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0806,2018,14.587,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0807,2018,15.411,,0.367,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0808,2018,18.474,,0.303,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0809,2018,19.177,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0810,2018,14.467,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0811,2018,12.334,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0812,2018,12.675,,0.000,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0813,2018,12.459,,0.189,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0814,2018,18.988,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0815,2018,16.150,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0816,2018,14.121,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0817,2018,13.695,,0.226,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0818,2018,14.521,,0.000,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0819,2018,28.830,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0820,2018,29.300,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0821,2018,14.787,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0822,2018,6.861,,0.000,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0823,2018,7.640,,0.000,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0824,2018,40.276,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0825,2018,32.027,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0826,2018,17.024,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0827,2018,7.218,,0.000,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0828,2018,5.321,,0.000,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0829,2018,38.278,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0830,2018,30.882,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0831,2018,21.007,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0832,2018,17.683,,0.149,0.842,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0833,2018,16.934,,1.026,6.061,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0834,2018,8.877,,0.418,4.714,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0835,2018,5.188,,0.571,11.014,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0836,2018,6.125,,0.300,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0837,2018,16.850,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0838,2018,19.445,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0839,2018,8.888,,0.519,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0840,2018,4.528,,0.356,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0841,2018,4.308,,0.273,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0842,2018,19.151,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0843,2018,13.788,,0.347,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0844,2018,8.638,,0.885,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0845,2018,5.407,,0.959,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0846,2018,5.053,,1.172,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0847,2018,17.639,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0848,2018,17.339,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0849,2018,8.716,,0.348,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0850,2018,5.364,,0.284,5.285,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0851,2018,4.847,,0.802,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0852,2018,27.879,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0853,2018,29.805,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0854,2018,11.101,,0.569,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0855,2018,7.775,,0.459,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0856,2018,6.461,,0.388,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0857,2018,27.198,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0858,2018,16.913,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0859,2018,5.261,,0.165,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0860,2018,6.163,,0.089,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0861,2018,3.037,,0.267,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0862,2018,25.287,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0863,2018,15.920,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0864,2018,9.392,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0865,2018,5.126,,0.218,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0866,2018,4.420,,0.462,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0867,2018,30.110,,1.593,5.290,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0868,2018,22.529,,0.231,1.024,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0869,2018,19.821,,0.285,1.439,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0870,2018,18.312,,0.228,1.243,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0871,2018,15.901,,0.371,2.334,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0872,2018,32.045,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0873,2018,23.362,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0874,2018,20.775,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0875,2018,18.870,,0.000,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0876,2018,15.423,,0.771,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0877,2018,30.666,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0878,2018,30.990,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0879,2018,18.098,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0880,2018,18.818,,0.000,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0881,2018,26.511,,0.343,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0882,2018,37.389,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0883,2018,36.931,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0884,2018,22.253,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0885,2018,21.063,,0.000,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0886,2018,29.473,,0.777,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0887,2018,22.518,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0888,2018,8.659,,0.162,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0889,2018,6.255,,0.579,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0890,2018,10.147,,0.496,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0891,2018,10.415,,0.559,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0892,2018,23.641,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0893,2018,12.128,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0894,2018,9.549,,0.381,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0895,2018,12.422,,0.263,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0896,2018,13.120,,0.238,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0897,2018,24.853,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0898,2018,7.497,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0899,2018,6.757,,0.580,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0900,2018,10.548,,0.402,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0901,2018,9.609,,0.479,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0902,2018,12.848,,0.469,3.647,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0903,2018,14.025,,0.116,0.828,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0904,2018,10.699,,0.124,1.157,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0905,2018,8.055,,0.152,1.884,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0906,2018,6.224,,0.177,2.849,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0907,2018,12.613,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0908,2018,11.506,,0.611,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0909,2018,6.312,,0.900,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0910,2018,4.607,,0.493,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0911,2018,5.930,,0.511,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0912,2018,13.561,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0913,2018,11.671,,0.664,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0914,2018,8.932,,0.858,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0915,2018,6.184,,0.966,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0916,2018,6.025,,0.959,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0917,2018,12.168,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0918,2018,10.387,,0.497,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0919,2018,7.533,,0.840,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0920,2018,6.374,,0.983,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0921,2018,6.104,,1.279,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0922,2018,16.101,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0923,2018,9.609,,0.286,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0924,2018,4.521,,0.310,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0925,2018,2.880,,0.381,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0926,2018,4.131,,0.407,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0927,2018,18.025,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0928,2018,8.165,,0.479,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0929,2018,4.211,,0.454,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0930,2018,3.257,,0.317,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0931,2018,3.304,,0.322,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0932,2018,13.939,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0933,2018,6.554,,0.382,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0934,2018,3.829,,0.613,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0935,2018,3.863,,0.883,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0936,2018,5.218,,1.016,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0937,2018,14.407,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0938,2018,10.718,,0.449,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0939,2018,4.434,,0.670,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0940,2018,6.053,,0.443,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0941,2018,5.339,,0.608,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0942,2018,16.087,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0943,2018,8.929,,0.622,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0944,2018,4.355,,0.624,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0945,2018,5.036,,0.510,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0946,2018,6.035,,0.672,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0947,2018,14.014,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0948,2018,6.426,,0.384,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0949,2018,5.015,,0.395,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0950,2018,4.745,,0.477,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0951,2018,5.030,,0.451,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0952,2018,7.781,,0.108,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0953,2018,4.410,,0.416,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0954,2018,3.506,,0.648,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0955,2018,3.265,,0.472,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0956,2018,2.912,,0.519,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0957,2018,9.218,,0.123,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0958,2018,5.376,,0.442,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0959,2018,3.909,,0.479,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0960,2018,2.880,,0.487,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0961,2018,2.884,,0.376,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0962,2018,9.318,,0.087,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0963,2018,4.112,,0.289,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0964,2018,3.960,,0.479,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0965,2018,3.321,,0.439,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0966,2018,3.910,,0.675,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0967,2018,10.428,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0968,2018,5.344,,0.438,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0969,2018,3.640,,0.462,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0970,2018,3.664,,0.480,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0971,2018,2.665,,0.303,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0972,2018,26.143,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0973,2018,25.404,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0974,2018,19.697,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0975,2018,17.831,,0.178,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0976,2018,17.653,,0.596,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0977,2018,28.220,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0978,2018,24.278,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0979,2018,14.940,,0.149,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0980,2018,14.786,,0.633,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0981,2018,16.077,,1.250,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0982,2018,25.102,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0983,2018,25.810,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0984,2018,20.752,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0985,2018,22.742,,0.127,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0986,2018,25.929,,1.743,,Dongzhai Bay,80-100,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0987,2018,26.795,,0.000,,Dongzhai Bay,0-20,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0988,2018,28.982,,0.000,,Dongzhai Bay,20-40,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0989,2018,22.563,,0.000,,Dongzhai Bay,40-60,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0990,2018,21.451,,0.069,,Dongzhai Bay,60-80,,Undisturbed
-https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0991,2018,27.893,,1.563,,Dongzhai Bay,80-100,,Undisturbed
-https://www.sciencedirect.com/science/article/pii/S0048969717307258,2014,,0.78,,0.15,"Xuan Thuy National Park (XTP) (20° 14′ 21.75″N, 106° 31′ 12.59″E)",0–35,,Cleared
-https://www.sciencedirect.com/science/article/pii/S0048969717307258,2014,,1.72,,0.1,"Xuan Thuy National Park (XTP) (20° 14′ 21.75″N, 106° 31′ 12.59″E)",35–50,,Cleared
-https://www.sciencedirect.com/science/article/pii/S0048969717307258,2014,,1.93,,0.07,"Xuan Thuy National Park (XTP) (20° 14′ 21.75″N, 106° 31′ 12.59″E)",0–35,,Undisturbed 
-https://www.sciencedirect.com/science/article/pii/S0048969717307258,2014,,1.32,,0.14,"Xuan Thuy National Park (XTP) (20° 14′ 21.75″N, 106° 31′ 12.59″E)",35–50,,Undisturbed 
-https://www.hindawi.com/journals/aess/2017/4010381/,2016,,,,,"Gulf of Thailand (13°20′37.05′′N, 100°56′34.83′′E)",0-5,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+﻿Paper,Year,TC (mg cm-3),TC (%),SOC (mg cm-3),SOC (g kg-1),SOC (%),IC (mg cm-3),IC (%),C/N,Location,Depth (cm),Notes,Disturbance,,,,,%OC,Lat/Long,"LOI (content of the soil or loss on ignition, and can be converted to C: LOI were converted to percentage of C by dividing by 2.07, an estimate of the ratio of organic matter to C concentration // Kauffman, J. B. & Donato, D. C. Protocols for the measurement, monitoring, and reporting of structure, biomass and carbon stocks in mangrove forests. CIFOR Work. Pap. 86. Cent. Int. For. Res. Bogor, Indones.)",Core info (core depth and section thickness),GPS (for midpoint of averaged data),Organic matter concentration (multiplying the organic matter content by 0.58)
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0483,2018,14.343,,,,,0.000,0.000,,Chengmai,0-20,No TC in % form,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0484,2018,9.906,,,,,0.000,0.000,,Chengmai,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0485,2018,8.768,,,,,0.120,1.364,,Chengmai,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0486,2018,10.306,,,,,0.021,0.203,,Chengmai,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0487,2018,12.362,,,,,0.736,5.951,,Chengmai,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0488,2018,7.790,,,,,2.427,,,Chengmai,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0489,2018,6.381,,,,,2.819,,,Chengmai,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0490,2018,6.087,,,,,2.640,,,Chengmai,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0491,2018,6.732,,,,,2.495,,,Chengmai,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0492,2018,7.370,,,,,2.317,,,Chengmai,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0493,2018,8.695,,,,,2.595,,,Chengmai,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0494,2018,10.121,,,,,2.905,,,Chengmai,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0495,2018,13.208,,,,,2.788,,,Chengmai,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0496,2018,12.182,,,,,2.619,,,Chengmai,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0497,2018,10.848,,,,,2.401,,,Chengmai,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0498,2018,21.997,,,,,2.046,,,Chengmai,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0499,2018,16.033,,,,,2.541,,,Chengmai,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0500,2018,14.662,,,,,2.957,,,Chengmai,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0501,2018,14.651,,,,,2.743,,,Chengmai,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0502,2018,15.867,,,,,2.615,,,Chengmai,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0503,2018,35.007,,,,,5.688,16.247,,Dongchang-Caiqiao,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0504,2018,30.425,,,,,5.338,17.544,,Dongchang-Caiqiao,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0505,2018,27.067,,,,,2.112,7.804,,Dongchang-Caiqiao,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0506,2018,25.078,,,,,0.837,3.339,,Dongchang-Caiqiao,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0507,2018,22.870,,,,,0.363,1.587,,Dongchang-Caiqiao,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0508,2018,29.835,,,,,2.002,,,Dongchang-Caiqiao,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0509,2018,24.705,,,,,2.224,,,Dongchang-Caiqiao,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0510,2018,21.046,,,,,2.312,,,Dongchang-Caiqiao,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0511,2018,23.720,,,,,2.375,,,Dongchang-Caiqiao,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0512,2018,23.535,,,,,2.184,,,Dongchang-Caiqiao,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0513,2018,36.433,,,,,1.282,,,Dongchang-Caiqiao,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0514,2018,20.976,,,,,1.941,,,Dongchang-Caiqiao,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0515,2018,20.034,,,,,2.492,,,Dongchang-Caiqiao,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0516,2018,32.854,,,,,1.581,,,Dongchang-Caiqiao,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0517,2018,29.140,,,,,1.589,,,Dongchang-Caiqiao,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0518,2018,26.536,,,,,1.607,,,Dongchang-Caiqiao,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0519,2018,22.504,,,,,2.307,,,Dongchang-Caiqiao,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0520,2018,10.589,,,,,2.671,,,Dongchang-Caiqiao,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0521,2018,12.190,,,,,2.574,,,Dongchang-Caiqiao,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0522,2018,9.837,,,,,3.043,,,Dongchang-Caiqiao,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0523,2018,40.773,,,,,10.335,,,Danzhou,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0524,2018,38.240,,,,,1.645,,,Danzhou,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0525,2018,28.121,,,,,2.039,,,Danzhou,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0526,2018,28.732,,,,,2.041,,,Danzhou,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0527,2018,24.569,,,,,2.252,,,Danzhou,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0528,2018,27.665,,,,,0.713,2.579,,Danzhou,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0529,2018,13.978,,,,,0.053,0.381,,Danzhou,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0530,2018,10.564,,,,,1.331,12.598,,Danzhou,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0531,2018,6.663,,,,,0.006,0.092,,Danzhou,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0532,2018,3.530,,,,,0.299,8.462,,Danzhou,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0533,2018,32.541,,,,,1.922,,,Danzhou,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0534,2018,25.940,,,,,1.980,,,Danzhou,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0535,2018,24.172,,,,,2.356,,,Danzhou,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0536,2018,15.829,,,,,2.369,,,Danzhou,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0537,2018,29.545,,,,,1.626,,,Danzhou,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0538,2018,30.651,,,,,1.469,,,Danzhou,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0539,2018,19.730,,,,,1.832,,,Danzhou,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0540,2018,20.326,,,,,2.414,,,Danzhou,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0541,2018,10.902,,,,,2.241,,,Danzhou,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0542,2018,28.028,,,,,1.719,,,Danzhou,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0543,2018,20.824,,,,,2.078,,,Danzhou,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0544,2018,17.471,,,,,2.007,,,Danzhou,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0545,2018,14.912,,,,,1.960,,,Danzhou,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0546,2018,13.986,,,,,1.999,,,Danzhou,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0547,2018,34.781,,,,,1.234,,,Danzhou,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0548,2018,28.544,,,,,1.149,,,Danzhou,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0549,2018,18.121,,,,,1.857,,,Danzhou,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0550,2018,16.061,,,,,2.204,,,Danzhou,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0551,2018,21.793,,,,,2.479,,,Danzhou,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0552,2018,17.730,,,,,0.966,,,Dongfang,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0553,2018,12.670,,,,,1.006,,,Dongfang,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0554,2018,20.383,,,,,1.308,,,Dongfang,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0555,2018,32.371,,,,,1.372,,,Dongfang,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0556,2018,20.378,,,,,1.093,,,Dongfang,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0557,2018,14.326,,,,,1.251,,,Dongfang,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0558,2018,7.710,,,,,2.278,,,Dongfang,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0559,2018,16.862,,,,,2.632,,,Dongfang,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0560,2018,26.391,,,,,2.148,,,Dongfang,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0561,2018,10.893,,,,,0.804,,,Dongfang,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0562,2018,16.425,,,,,1.085,,,Dongfang,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0563,2018,29.411,,,,,1.612,,,Dongfang,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0564,2018,28.724,,,,,1.498,,,Dongfang,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0565,2018,12.475,,,,,0.991,,,Dongfang,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0566,2018,18.369,,,,,1.371,,,Dongfang,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0567,2018,29.045,,,,,1.674,,,Dongfang,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0568,2018,33.892,,,,,1.817,,,Dongfang,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0569,2018,15.394,,,,,2.642,17.161,,Dongfang,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0570,2018,13.303,,,,,1.992,14.973,,Dongfang,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0571,2018,18.871,,,,,2.293,12.152,,Dongfang,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0572,2018,32.979,,,,,5.673,17.203,,Dongfang,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0573,2018,29.715,,,,,5.894,19.837,,Dongfang,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0574,2018,6.028,,,,,0.856,,,Sanya,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0575,2018,10.014,,,,,2.792,,,Sanya,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0576,2018,13.253,,,,,2.667,,,Sanya,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0577,2018,12.998,,,,,1.776,,,Sanya,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0578,2018,11.689,,,,,2.130,,,Sanya,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0579,2018,15.834,,,,,7.159,45.214,,Sanya,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0580,2018,23.111,,,,,13.089,56.634,,Sanya,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0581,2018,27.546,,,,,15.152,55.007,,Sanya,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0582,2018,37.059,,,,,1.294,,,Sanya,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0583,2018,41.633,,,,,1.478,,,Sanya,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0584,2018,38.430,,,,,1.334,,,Sanya,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0585,2018,44.241,,,,,1.657,,,Sanya,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0586,2018,14.359,,,,,0.816,,,Sanya,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0587,2018,15.955,,,,,2.439,,,Sanya,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0588,2018,16.557,,,,,1.885,,,Sanya,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0589,2018,14.400,,,,,2.634,,,Sanya,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0590,2018,21.873,,,,,1.898,,,Sanya,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0591,2018,12.417,,,,,2.524,,,Sanya,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0592,2018,19.335,,,,,2.323,,,Sanya,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0593,2018,19.264,,,,,2.356,,,Sanya,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0594,2018,20.636,,,,,2.160,,,Sanya,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0595,2018,19.424,,,,,0.000,0.000,,Sanya,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0596,2018,21.360,,,,,2.164,10.130,,Sanya,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0597,2018,52.228,,,,,38.597,73.900,,Sanya,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0598,2018,73.186,,,,,60.762,83.024,,Sanya,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0599,2018,17.301,,,,,1.816,,,Sanya,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0600,2018,17.309,,,,,1.939,,,Sanya,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0601,2018,18.011,,,,,1.746,,,Sanya,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0602,2018,15.632,,,,,1.673,,,Sanya,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0603,2018,11.074,,,,,2.197,,,Sanya,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0604,2018,19.197,,,,,1.640,,,Sanya,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0605,2018,4.910,,,,,2.612,,,Sanya,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0606,2018,4.291,,,,,2.828,,,Sanya,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0607,2018,3.357,,,,,2.697,,,Sanya,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0608,2018,4.293,,,,,2.760,,,Sanya,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0609,2018,20.152,,,,,1.274,,,Sanya,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0610,2018,16.289,,,,,1.629,,,Sanya,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0611,2018,12.511,,,,,1.774,,,Sanya,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0612,2018,6.800,,,,,2.198,,,Sanya,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0613,2018,7.458,,,,,2.597,,,Sanya,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0614,2018,31.367,,,,,1.245,,,Sanya,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0615,2018,29.511,,,,,1.156,,,Sanya,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0616,2018,27.232,,,,,1.328,,,Sanya,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0617,2018,19.726,,,,,1.617,,,Sanya,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0618,2018,22.000,,,,,1.131,,,Sanya,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0619,2018,24.349,,,,,1.448,,,Sanya,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0620,2018,17.950,,,,,1.803,,,Sanya,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0621,2018,11.441,,,,,2.081,,,Sanya,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0622,2018,12.821,,,,,2.485,,,Sanya,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0623,2018,15.623,,,,,5.356,,,Sanya,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0624,2018,28.454,,,,,0.588,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0625,2018,31.605,,,,,0.986,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0626,2018,31.636,,,,,1.454,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0627,2018,28.930,,,,,1.602,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0628,2018,25.529,,,,,1.394,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0629,2018,18.818,,,,,1.490,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0630,2018,16.745,,,,,1.946,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0631,2018,13.601,,,,,2.150,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0632,2018,10.250,,,,,1.961,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0633,2018,33.217,,,,,1.017,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0634,2018,43.689,,,,,0.636,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0635,2018,47.894,,,,,1.174,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0636,2018,50.539,,,,,1.516,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0637,2018,44.999,,,,,1.678,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0638,2018,20.673,,,,,1.949,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0639,2018,22.248,,,,,2.215,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0640,2018,24.582,,,,,2.229,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0641,2018,20.830,,,,,2.026,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0642,2018,18.742,,,,,2.086,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0643,2018,32.578,,,,,1.016,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0644,2018,21.905,,,,,2.351,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0645,2018,15.870,,,,,2.449,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0646,2018,33.079,,,,,2.003,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0647,2018,25.956,,,,,2.469,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0648,2018,21.403,,,,,0.950,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0649,2018,25.490,,,,,1.229,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0650,2018,18.393,,,,,2.238,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0651,2018,14.188,,,,,2.262,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0652,2018,17.995,,,,,1.832,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0653,2018,10.608,,,,,2.026,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0654,2018,26.319,,,,,1.296,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0655,2018,23.010,,,,,1.331,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0656,2018,21.542,,,,,1.538,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0657,2018,17.410,,,,,1.727,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0658,2018,35.630,,,,,1.400,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0659,2018,35.766,,,,,1.250,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0660,2018,36.133,,,,,1.763,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0661,2018,44.442,,,,,1.754,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0662,2018,39.087,,,,,1.470,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0663,2018,12.521,,,,,2.169,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0664,2018,22.579,,,,,2.070,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0665,2018,34.577,,,,,1.861,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0666,2018,34.520,,,,,1.869,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0667,2018,33.136,,,,,2.079,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0668,2018,28.425,,,,,1.534,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0669,2018,32.830,,,,,1.336,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0670,2018,40.334,,,,,1.128,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0671,2018,36.883,,,,,1.386,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0672,2018,41.058,,,,,1.562,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0673,2018,34.464,,,,,1.056,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0674,2018,43.883,,,,,0.796,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0675,2018,53.125,,,,,0.750,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0676,2018,37.289,,,,,1.020,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0677,2018,30.860,,,,,1.418,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0678,2018,20.312,,,,,1.812,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0679,2018,17.004,,,,,1.690,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0680,2018,17.337,,,,,1.904,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0681,2018,22.137,,,,,2.007,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0682,2018,13.288,,,,,1.966,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0683,2018,5.503,,,,,2.010,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0684,2018,7.327,,,,,2.244,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0685,2018,6.279,,,,,2.570,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0686,2018,23.597,,,,,2.118,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0687,2018,23.377,,,,,2.293,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0688,2018,33.211,,,,,2.152,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0689,2018,27.160,,,,,2.278,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0690,2018,20.557,,,,,2.470,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0691,2018,15.688,,,,,2.160,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0692,2018,19.935,,,,,2.126,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0693,2018,22.425,,,,,2.094,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0694,2018,30.647,,,,,2.240,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0695,2018,36.296,,,,,1.837,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0696,2018,31.110,,,,,1.810,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0697,2018,35.876,,,,,2.010,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0698,2018,40.324,,,,,2.062,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0699,2018,49.171,,,,,2.383,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0700,2018,23.797,,,,,1.851,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0701,2018,21.957,,,,,1.994,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0702,2018,24.095,,,,,1.795,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0703,2018,32.818,,,,,1.649,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0704,2018,37.533,,,,,1.361,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0705,2018,36.158,,,,,1.688,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0706,2018,29.704,,,,,2.039,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0707,2018,23.675,,,,,2.196,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0708,2018,15.411,,,,,2.438,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0709,2018,31.200,,,,,1.713,,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0710,2018,33.319,,,,,1.129,,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0711,2018,16.835,,,,,1.488,,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0712,2018,9.774,,,,,2.489,,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0713,2018,9.006,,,,,2.722,,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0714,2018,4.693,,,,,0.272,5.799,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0715,2018,15.778,,,,,0.000,0.000,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0716,2018,17.878,,,,,1.233,6.899,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0717,2018,13.424,,,,,0.000,0.000,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0718,2018,27.739,,,,,0.000,0.000,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0719,2018,26.556,,,,,12.026,45.285,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0720,2018,43.091,,,,,29.205,67.776,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0721,2018,62.037,,,,,55.783,89.919,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0722,2018,52.427,,,,,46.646,88.972,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0723,2018,38.250,,,,,24.025,62.809,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0724,2018,52.739,,,,,38.761,73.497,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0725,2018,63.870,,,,,45.725,71.590,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0726,2018,53.693,,,,,39.709,73.955,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0727,2018,45.886,,,,,34.112,74.342,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0728,2018,51.929,,,,,36.348,69.996,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0729,2018,73.417,,,,,56.816,77.388,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0730,2018,73.120,,,,,53.165,72.708,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0731,2018,68.796,,,,,59.024,85.795,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0732,2018,59.772,,,,,47.795,79.963,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0733,2018,72.121,,,,,53.510,74.195,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0734,2018,80.233,,,,,58.124,72.444,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0735,2018,82.111,,,,,63.325,77.121,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0736,2018,75.432,,,,,65.842,87.287,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0737,2018,41.393,,,,,29.228,70.611,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0738,2018,52.690,,,,,35.347,67.086,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0739,2018,60.115,,,,,43.940,73.094,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0740,2018,71.395,,,,,57.752,80.890,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0741,2018,71.516,,,,,60.573,84.698,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0742,2018,53.365,,,,,39.581,74.170,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0743,2018,70.910,,,,,56.070,79.073,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0744,2018,76.994,,,,,60.109,78.069,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0745,2018,78.823,,,,,64.935,82.381,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0746,2018,47.801,,,,,29.935,62.625,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0747,2018,56.973,,,,,34.151,59.942,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0748,2018,67.809,,,,,42.754,63.051,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0749,2018,71.145,,,,,57.973,81.486,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0750,2018,56.708,,,,,34.933,61.602,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0751,2018,56.439,,,,,41.097,72.816,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0752,2018,67.177,,,,,50.903,75.774,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0753,2018,72.385,,,,,63.624,87.896,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0754,2018,50.133,,,,,31.467,62.767,,Qinglan Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0755,2018,58.670,,,,,44.567,75.962,,Qinglan Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0756,2018,74.333,,,,,66.033,88.834,,Qinglan Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0757,2018,72.930,,,,,67.149,92.074,,Qinglan Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0758,2018,65.858,,,,,59.797,90.798,,Qinglan Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0759,2018,20.938,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0760,2018,19.179,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0761,2018,13.966,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0762,2018,9.801,,,,,0.203,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0763,2018,8.428,,,,,0.572,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0764,2018,20.297,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0765,2018,18.599,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0766,2018,12.047,,,,,0.294,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0767,2018,11.680,,,,,0.377,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0768,2018,8.348,,,,,0.299,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0769,2018,23.685,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0770,2018,18.659,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0771,2018,13.674,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0772,2018,11.083,,,,,0.441,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0773,2018,10.549,,,,,0.000,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0774,2018,20.236,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0775,2018,19.704,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0776,2018,12.506,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0777,2018,8.385,,,,,0.297,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0778,2018,7.807,,,,,0.628,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0779,2018,25.267,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0780,2018,17.053,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0781,2018,9.962,,,,,0.022,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0782,2018,7.318,,,,,0.358,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0783,2018,7.385,,,,,0.857,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0784,2018,22.771,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0785,2018,25.978,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0786,2018,15.788,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0787,2018,15.690,,,,,0.000,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0788,2018,11.694,,,,,0.000,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0789,2018,28.878,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0790,2018,24.450,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0791,2018,23.701,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0792,2018,17.404,,,,,0.000,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0793,2018,16.529,,,,,0.464,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0794,2018,34.299,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0795,2018,28.609,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0796,2018,25.121,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0797,2018,22.846,,,,,0.000,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0798,2018,21.038,,,,,0.000,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0799,2018,33.507,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0800,2018,28.825,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0801,2018,23.917,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0802,2018,20.484,,,,,0.174,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0803,2018,19.203,,,,,0.503,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0804,2018,21.864,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0805,2018,17.080,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0806,2018,14.587,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0807,2018,15.411,,,,,0.367,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0808,2018,18.474,,,,,0.303,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0809,2018,19.177,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0810,2018,14.467,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0811,2018,12.334,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0812,2018,12.675,,,,,0.000,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0813,2018,12.459,,,,,0.189,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0814,2018,18.988,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0815,2018,16.150,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0816,2018,14.121,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0817,2018,13.695,,,,,0.226,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0818,2018,14.521,,,,,0.000,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0819,2018,28.830,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0820,2018,29.300,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0821,2018,14.787,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0822,2018,6.861,,,,,0.000,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0823,2018,7.640,,,,,0.000,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0824,2018,40.276,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0825,2018,32.027,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0826,2018,17.024,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0827,2018,7.218,,,,,0.000,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0828,2018,5.321,,,,,0.000,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0829,2018,38.278,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0830,2018,30.882,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0831,2018,21.007,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0832,2018,17.683,,,,,0.149,0.842,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0833,2018,16.934,,,,,1.026,6.061,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0834,2018,8.877,,,,,0.418,4.714,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0835,2018,5.188,,,,,0.571,11.014,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0836,2018,6.125,,,,,0.300,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0837,2018,16.850,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0838,2018,19.445,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0839,2018,8.888,,,,,0.519,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0840,2018,4.528,,,,,0.356,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0841,2018,4.308,,,,,0.273,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0842,2018,19.151,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0843,2018,13.788,,,,,0.347,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0844,2018,8.638,,,,,0.885,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0845,2018,5.407,,,,,0.959,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0846,2018,5.053,,,,,1.172,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0847,2018,17.639,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0848,2018,17.339,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0849,2018,8.716,,,,,0.348,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0850,2018,5.364,,,,,0.284,5.285,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0851,2018,4.847,,,,,0.802,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0852,2018,27.879,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0853,2018,29.805,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0854,2018,11.101,,,,,0.569,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0855,2018,7.775,,,,,0.459,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0856,2018,6.461,,,,,0.388,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0857,2018,27.198,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0858,2018,16.913,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0859,2018,5.261,,,,,0.165,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0860,2018,6.163,,,,,0.089,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0861,2018,3.037,,,,,0.267,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0862,2018,25.287,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0863,2018,15.920,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0864,2018,9.392,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0865,2018,5.126,,,,,0.218,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0866,2018,4.420,,,,,0.462,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0867,2018,30.110,,,,,1.593,5.290,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0868,2018,22.529,,,,,0.231,1.024,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0869,2018,19.821,,,,,0.285,1.439,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0870,2018,18.312,,,,,0.228,1.243,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0871,2018,15.901,,,,,0.371,2.334,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0872,2018,32.045,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0873,2018,23.362,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0874,2018,20.775,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0875,2018,18.870,,,,,0.000,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0876,2018,15.423,,,,,0.771,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0877,2018,30.666,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0878,2018,30.990,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0879,2018,18.098,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0880,2018,18.818,,,,,0.000,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0881,2018,26.511,,,,,0.343,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0882,2018,37.389,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0883,2018,36.931,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0884,2018,22.253,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0885,2018,21.063,,,,,0.000,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0886,2018,29.473,,,,,0.777,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0887,2018,22.518,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0888,2018,8.659,,,,,0.162,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0889,2018,6.255,,,,,0.579,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0890,2018,10.147,,,,,0.496,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0891,2018,10.415,,,,,0.559,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0892,2018,23.641,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0893,2018,12.128,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0894,2018,9.549,,,,,0.381,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0895,2018,12.422,,,,,0.263,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0896,2018,13.120,,,,,0.238,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0897,2018,24.853,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0898,2018,7.497,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0899,2018,6.757,,,,,0.580,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0900,2018,10.548,,,,,0.402,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0901,2018,9.609,,,,,0.479,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0902,2018,12.848,,,,,0.469,3.647,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0903,2018,14.025,,,,,0.116,0.828,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0904,2018,10.699,,,,,0.124,1.157,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0905,2018,8.055,,,,,0.152,1.884,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0906,2018,6.224,,,,,0.177,2.849,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0907,2018,12.613,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0908,2018,11.506,,,,,0.611,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0909,2018,6.312,,,,,0.900,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0910,2018,4.607,,,,,0.493,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0911,2018,5.930,,,,,0.511,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0912,2018,13.561,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0913,2018,11.671,,,,,0.664,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0914,2018,8.932,,,,,0.858,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0915,2018,6.184,,,,,0.966,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0916,2018,6.025,,,,,0.959,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0917,2018,12.168,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0918,2018,10.387,,,,,0.497,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0919,2018,7.533,,,,,0.840,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0920,2018,6.374,,,,,0.983,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0921,2018,6.104,,,,,1.279,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0922,2018,16.101,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0923,2018,9.609,,,,,0.286,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0924,2018,4.521,,,,,0.310,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0925,2018,2.880,,,,,0.381,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0926,2018,4.131,,,,,0.407,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0927,2018,18.025,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0928,2018,8.165,,,,,0.479,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0929,2018,4.211,,,,,0.454,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0930,2018,3.257,,,,,0.317,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0931,2018,3.304,,,,,0.322,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0932,2018,13.939,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0933,2018,6.554,,,,,0.382,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0934,2018,3.829,,,,,0.613,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0935,2018,3.863,,,,,0.883,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0936,2018,5.218,,,,,1.016,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0937,2018,14.407,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0938,2018,10.718,,,,,0.449,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0939,2018,4.434,,,,,0.670,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0940,2018,6.053,,,,,0.443,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0941,2018,5.339,,,,,0.608,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0942,2018,16.087,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0943,2018,8.929,,,,,0.622,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0944,2018,4.355,,,,,0.624,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0945,2018,5.036,,,,,0.510,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0946,2018,6.035,,,,,0.672,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0947,2018,14.014,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0948,2018,6.426,,,,,0.384,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0949,2018,5.015,,,,,0.395,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0950,2018,4.745,,,,,0.477,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0951,2018,5.030,,,,,0.451,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0952,2018,7.781,,,,,0.108,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0953,2018,4.410,,,,,0.416,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0954,2018,3.506,,,,,0.648,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0955,2018,3.265,,,,,0.472,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0956,2018,2.912,,,,,0.519,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0957,2018,9.218,,,,,0.123,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0958,2018,5.376,,,,,0.442,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0959,2018,3.909,,,,,0.479,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0960,2018,2.880,,,,,0.487,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0961,2018,2.884,,,,,0.376,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0962,2018,9.318,,,,,0.087,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0963,2018,4.112,,,,,0.289,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0964,2018,3.960,,,,,0.479,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0965,2018,3.321,,,,,0.439,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0966,2018,3.910,,,,,0.675,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0967,2018,10.428,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0968,2018,5.344,,,,,0.438,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0969,2018,3.640,,,,,0.462,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0970,2018,3.664,,,,,0.480,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0971,2018,2.665,,,,,0.303,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0972,2018,26.143,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0973,2018,25.404,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0974,2018,19.697,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0975,2018,17.831,,,,,0.178,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0976,2018,17.653,,,,,0.596,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0977,2018,28.220,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0978,2018,24.278,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0979,2018,14.940,,,,,0.149,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0980,2018,14.786,,,,,0.633,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0981,2018,16.077,,,,,1.250,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0982,2018,25.102,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0983,2018,25.810,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0984,2018,20.752,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0985,2018,22.742,,,,,0.127,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0986,2018,25.929,,,,,1.743,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0987,2018,26.795,,,,,0.000,,,Dongzhai Bay,0-20,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0988,2018,28.982,,,,,0.000,,,Dongzhai Bay,20-40,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0989,2018,22.563,,,,,0.000,,,Dongzhai Bay,40-60,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0990,2018,21.451,,,,,0.069,,,Dongzhai Bay,60-80,,Undisturbed,,,,,,,,,,
+https://royalsocietypublishing.org/doi/suppl/10.1098/rsbl.2018.0991,2018,27.893,,,,,1.563,,,Dongzhai Bay,80-100,,Undisturbed,,,,,,,,,,
+https://www.sciencedirect.com/science/article/pii/S0048969717307258,2014,,0.78,,,0.65,,0.15,,"Xuan Thuy National Park (XTP) (20° 14′ 21.75″N, 106° 31′ 12.59″E)",0–35,,Cleared,,,,,,,,,,
+https://www.sciencedirect.com/science/article/pii/S0048969717307258,2014,,1.72,,,1.63,,0.1,,"Xuan Thuy National Park (XTP) (20° 14′ 21.75″N, 106° 31′ 12.59″E)",35–50,,Cleared,,,,,,,,,,
+https://www.sciencedirect.com/science/article/pii/S0048969717307258,2014,,1.93,,,1.86,,0.07,,"Xuan Thuy National Park (XTP) (20° 14′ 21.75″N, 106° 31′ 12.59″E)",0–35,,Undisturbed ,,,,,,,,,,
+https://www.sciencedirect.com/science/article/pii/S0048969717307258,2014,,1.32,,,1.19,,0.14,,"Xuan Thuy National Park (XTP) (20° 14′ 21.75″N, 106° 31′ 12.59″E)",35–50,,Undisturbed ,,,,,,,,,,
+https://www.hindawi.com/journals/aess/2017/4010381/,2016,,3.09,,,3.08,,0.01,,"Gulf of Thailand (13°20′37.05′′N, 100°56′34.83′′E)",0-5,n=29,Undisturbed ,,,,,,,,,,
+https://www.hindawi.com/journals/aess/2017/4010381/,2016,,2.53,,,2.51,,0.03,,"Gulf of Thailand (13°20′37.05′′N, 100°56′34.83′′E)",5_10,n=29,Undisturbed ,,,,,,,,,,
+https://www.mdpi.com/2223-7747/10/9/1965/htm,,,,,,,,,,,,Sent email for data,,,,,,,,,,,
+https://www.mdpi.com/2223-7747/10/8/1749/htm,,,,,,,,,,,,Sent email for data,,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM1,2018,,,,,,4.450615898,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-1.504385046,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM2,2018,,,,,,7.538940442,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-4.527881838,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM3,2018,,,,,,7.538940442,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-7.551440881,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM4,2018,,,,,,11.00675395,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-10.472082,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM5,2018,,,,,,8.269041946,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-13.50491044,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM6,2018,,,,,,17.16092664,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-16.53974869,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM7,2018,,,,,,16.65583002,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-19.49956614,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM8,2018,,,,,,14.63933014,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-22.50183847,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM9,2018,,,,,,10.27193875,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-25.50768575,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM10,2018,,,,,,10.56672566,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-31.51055259,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM11,2018,,,,,,4.371398439,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-34.52387587,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM12,2018,,,,,,7.989472172,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-28.52345754,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM13,2018,,,17.72445869,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-1.4725602,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM14,2018,,,13.57849876,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-4.515532517,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM15,2018,,,15.37547835,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-7.502402278,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM16,2018,,,7.785707042,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-10.56130777,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM17,2018,,,6.36578328,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-13.46410077,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM18,2018,,,7.103160103,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-16.501598,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM19,2018,,,5.393235399,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-19.4392928,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM20,2018,,,7.006059494,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-22.49012351,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM21,2018,,,5.109642518,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-25.48448705,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM22,2018,,,7.955095087,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-28.51483733,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM23,2018,,,4.288382718,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-31.49565989,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM24,2018,,,2.418200252,,,,,,Annaberg - Virgin Islands National Park and Virgin Islands Coral Reef National Monument,-34.50287076,isolated basin,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM25,2018,,,,,,0.187007742,,,"Francis Pond, Lameshur",-1.327661424,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM26,2018,,,,,,0.185599021,,,"Francis Pond, Lameshur",-4.373974367,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM27,2018,,,,,,0.082269319,,,"Francis Pond, Lameshur",-7.382492728,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM28,2018,,,,,,0.322711619,,,"Francis Pond, Lameshur",-10.36606397,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM29,2018,,,,,,1.042761863,,,"Francis Pond, Lameshur",-13.33490835,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM30,2018,,,,,,0.127498075,,,"Francis Pond, Lameshur",-16.43333604,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM31,2018,,,,,,0.495007029,,,"Francis Pond, Lameshur",-19.39814283,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM32,2018,,,,,,0.393279748,,,"Francis Pond, Lameshur",-22.38918574,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM33,2018,,,,,,0.316962275,,,"Francis Pond, Lameshur",-25.36134285,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM34,2018,,,,,,0.362252663,,,"Francis Pond, Lameshur",-28.44454512,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM35,2018,,,,,,0.455034564,,,"Francis Pond, Lameshur",-31.37263314,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM36,2018,,,,,,0.41316913,,,"Francis Pond, Lameshur",-34.47675477,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM37,2018,,,6.863985357,,,,,,"Francis Pond, Lameshur",-1.381990112,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM38,2018,,,8.459450188,,,,,,"Francis Pond, Lameshur",-4.369854781,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM39,2018,,,7.957769342,,,,,,"Francis Pond, Lameshur",-7.35105464,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM40,2018,,,7.407531637,,,,,,"Francis Pond, Lameshur",-10.44641559,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM41,2018,,,5.833752308,,,,,,"Francis Pond, Lameshur",-13.37457249,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM42,2018,,,6.069572241,,,,,,"Francis Pond, Lameshur",-16.38664629,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM43,2018,,,5.801122803,,,,,,"Francis Pond, Lameshur",-19.43725266,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM44,2018,,,5.084647189,,,,,,"Francis Pond, Lameshur",-22.41795069,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM45,2018,,,5.841605929,,,,,,"Francis Pond, Lameshur",-25.40263711,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM46,2018,,,5.581617623,,,,,,"Francis Pond, Lameshur",-28.40332301,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM47,2018,,,5.440648651,,,,,,"Francis Pond, Lameshur",-31.41645951,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM48,2018,,,6.114739365,,,,,,"Francis Pond, Lameshur",-34.49260993,salt pond,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM49,2018,,,,,,0.458842432,,,"Mary Creek, Water Creek, Princess Bay)",-1.513146453,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM50,2018,,,,,,0.476292127,,,"Mary Creek, Water Creek, Princess Bay)",-4.467073329,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM51,2018,,,,,,0.398020463,,,"Mary Creek, Water Creek, Princess Bay)",-7.461548651,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM52,2018,,,,,,0.151879826,,,"Mary Creek, Water Creek, Princess Bay)",-10.53794357,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM53,2018,,,,,,0.047779538,,,"Mary Creek, Water Creek, Princess Bay)",-13.46863704,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM54,2018,,,,,,0.344783091,,,"Mary Creek, Water Creek, Princess Bay)",-16.52157534,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM55,2018,,,,,,0.141134982,,,"Mary Creek, Water Creek, Princess Bay)",-19.59946898,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM56,2018,,,,,,0.267510749,,,"Mary Creek, Water Creek, Princess Bay)",-22.50440991,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM57,2018,,,,,,0.318313876,,,"Mary Creek, Water Creek, Princess Bay)",-25.53514159,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM58,2018,,,,,,0.110232878,,,"Mary Creek, Water Creek, Princess Bay)",-28.54603272,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM59,2018,,,,,,0.094055823,,,"Mary Creek, Water Creek, Princess Bay)",-31.48976828,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM60,2018,,,,,,0.357475332,,,"Mary Creek, Water Creek, Princess Bay)",-34.53295531,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM61,2018,,,,,,0.113239384,,,"Mary Creek, Water Creek, Princess Bay)",-37.49718192,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM62,2018,,,,,,0.13907655,,,"Mary Creek, Water Creek, Princess Bay)",-40.52760748,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM63,2018,,,,,,0.094995356,,,"Mary Creek, Water Creek, Princess Bay)",-43.5871848,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM64,2018,,,14.12539606,,,,,,"Mary Creek, Water Creek, Princess Bay)",-1.459753626,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM65,2018,,,18.62749435,,,,,,"Mary Creek, Water Creek, Princess Bay)",-4.453591194,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM66,2018,,,16.03841394,,,,,,"Mary Creek, Water Creek, Princess Bay)",-7.447339475,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM67,2018,,,16.30817957,,,,,,"Mary Creek, Water Creek, Princess Bay)",-10.49233454,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM68,2018,,,14.8366313,,,,,,"Mary Creek, Water Creek, Princess Bay)",-13.46162812,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM69,2018,,,17.57808692,,,,,,"Mary Creek, Water Creek, Princess Bay)",-16.53764357,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM70,2018,,,15.8659925,,,,,,"Mary Creek, Water Creek, Princess Bay)",-19.51016418,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM71,2018,,,15.09357657,,,,,,"Mary Creek, Water Creek, Princess Bay)",-22.48482447,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM72,2018,,,14.9713262,,,,,,"Mary Creek, Water Creek, Princess Bay)",-25.51876405,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM73,2018,,,18.50198979,,,,,,"Mary Creek, Water Creek, Princess Bay)",-28.47121134,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM74,2018,,,18.08314585,,,,,,"Mary Creek, Water Creek, Princess Bay)",-31.44849279,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM75,2018,,,17.63830246,,,,,,"Mary Creek, Water Creek, Princess Bay)",-34.51897572,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM76,2018,,,17.40374371,,,,,,"Mary Creek, Water Creek, Princess Bay)",-37.50545998,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM77,2018,,,15.70038695,,,,,,"Mary Creek, Water Creek, Princess Bay)",-40.51276693,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM78,2018,,,19.99900795,,,,,,"Mary Creek, Water Creek, Princess Bay)",-43.51785449,fringe,EWE,,,,,,,,,,
+https://link.springer.com/article/10.1007/s13157-020-01313-5#MOESM79,2018,,,14.02296985,,,,,,"Mary Creek, Water Creek, Princess Bay)",-47.52724632,fringe,EWE,,,,,,,,,,
+https://bioone.org/journals/journal-of-resources-and-ecology/volume-10/issue-1/j.issn.1674-764x.2019.01.011/Spatial-Variation-of-Soil-Inorganic-Carbon-Reserves-of-Typical-Estuarine/10.5814/j.issn.1674-764x.2019.01.011.short,,,,,,,,,,,,Get access,,,,,,,,,,,
+https://www.mdpi.com/2077-1312/3/4/1404/htm,,,,,,,,,,,,Look into more,,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,21.01364105,,,,45.63,1- Dongzhaigang,9.770556157,C/N ratio values are means for each testing site (1-6),Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,18.83302487,,,,45.63,1- Dongzhaigang,29.96549572,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,10.88946093,,,,45.63,1- Dongzhaigang,49.97079394,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,7.158312133,,,,45.63,1- Dongzhaigang,70.13858439,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,15.36947486,,,,45.63,1- Dongzhaigang,90.23086837,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,44.95333552,,,,40.83,2- Dongzhaigang,9.805908646,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,30.20974567,,,,40.83,2- Dongzhaigang,30.04950888,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,8.076576236,,,,40.83,2- Dongzhaigang,50.38562422,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,9.0129781,,,,40.83,2- Dongzhaigang,70.22994642,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,8.594293395,,,,40.83,2- Dongzhaigang,90.5027268,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,16.62261571,,,,9.27,3- Dongzhaigang,9.463993355,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,15.76511015,,,,9.27,3- Dongzhaigang,29.60129292,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,23.84429987,,,,9.27,3- Dongzhaigang,49.80141095,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,29.45907209,,,,9.27,3- Dongzhaigang,69.68442465,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,17.61372781,,,,9.27,3- Dongzhaigang,89.98479441,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,40.95246574,,,,101.2,4- Dongzhaigang,9.721370345,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,15.33739117,,,,101.2,4- Dongzhaigang,29.78909301,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,9.18436791,,,,101.2,4- Dongzhaigang,49.78887275,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,9.22532112,,,,101.2,4- Dongzhaigang,70.04547714,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,12.14826083,,,,101.2,4- Dongzhaigang,90.1786855,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,51.98790619,,,,146.71,5- Dongzhaigang,9.996910397,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,12.17970237,,,,146.71,5- Dongzhaigang,30.12562117,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,6.097639705,,,,146.71,5- Dongzhaigang,50.04659791,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,7.571521172,,,,146.71,5- Dongzhaigang,70.07029931,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,7.409385336,,,,146.71,5- Dongzhaigang,90.06517268,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,25.67991488,,,,71.49,6- Dongzhaigang,9.693426116,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,52.29723723,,,,71.49,6- Dongzhaigang,29.82531633,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,3.23049052,,,,71.49,6- Dongzhaigang,49.8620359,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,7.302665888,,,,71.49,6- Dongzhaigang,69.85548462,,Undisturbed ,,,,,,,,,,
+https://meridian.allenpress.com/jcr/article/34/2/434/27978/Distribution-Pattern-and-Influencing-Factors-for,2013,,,,9.791806815,,,,71.49,6- Dongzhaigang,90.16222964,,Undisturbed ,,,,,,,,,,
+https://www.sciencedirect.com/science/article/abs/pii/S0272771419312053,,,,,,,,,,,,,,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2259,2016,,,,,2.18 (0.30),,,9.89 (0.95),"Cilacap Regency, Central Java, Indonesia",0–100,,Degraded,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2260,2016,,,,,1.69 (0.24),,,10.90 (1.43),"Cilacap Regency, Central Java, Indonesia",100–200,,Degraded,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2261,2016,,,,,1.26 (0.06),,,10.20 (0.31),"Cilacap Regency, Central Java, Indonesia",200–300,,Degraded,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2262,2016,,,,,3.84 (0.99),,,16.26 (6.23),"Cilacap Regency, Central Java, Indonesia",0–100,,Degraded,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2263,2016,,,,,4.60 (0.77),,,22.97 (2.08),"Cilacap Regency, Central Java, Indonesia",100–200,,Degraded,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2264,2016,,,,,1.57 (0.32),,,13.83 (3.25),"Cilacap Regency, Central Java, Indonesia",0–100,,Degraded,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2265,2016,,,,,2.38 (1.44),,,16.80 (2.44),"Cilacap Regency, Central Java, Indonesia",100–200,,Degraded,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2266,2016,,,,,1.07 (0.13),,,10.94 (1.03),"Cilacap Regency, Central Java, Indonesia",200–300,,Degraded,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2267,2016,,,,,2.37 (0.10),,,13.01 (0.64),"Cilacap Regency, Central Java, Indonesia",0–100,,Degraded,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2268,2016,,,,,2.34 (0.72),,,14.48 (2.50),"Cilacap Regency, Central Java, Indonesia",100–200,,Degraded,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2269,2016,,,,,2.28 (0.55),,,14.43 (2.25),"Cilacap Regency, Central Java, Indonesia",200–300,,Degraded,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2271,2016,,,,,3.60 (0.20),,,13.08 (0.15),"Cilacap Regency, Central Java, Indonesia",0–100,,Undisturbed ,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2272,2016,,,,,8.51 (3.46),,,28.15 (5.50),"Cilacap Regency, Central Java, Indonesia",0–100,,Undisturbed ,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2273,2016,,,,,5.30 (2.98),,,24.38 (5.88),"Cilacap Regency, Central Java, Indonesia",100–200,,Undisturbed ,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2274,2016,,,,,3.34 (0.78),,,14.37 (2.93),"Cilacap Regency, Central Java, Indonesia",0–100,,Undisturbed ,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2275,2016,,,,,2.79 (0.40),,,13.11 (2.46),"Cilacap Regency, Central Java, Indonesia",100–200,,Undisturbed ,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2276,2016,,,,,1.53 (0.61),,,13.74 (2.15),"Cilacap Regency, Central Java, Indonesia",0–100,,Undisturbed ,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2277,2016,,,,,22.89 (0.34),,,42.10 (6.23),"Cilacap Regency, Central Java, Indonesia",0–100,,Undisturbed ,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2278,2016,,,,,26.24 (2.47),,,51.27 (6.04),"Cilacap Regency, Central Java, Indonesia",100–200,,Undisturbed ,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2279,2016,,,,,25.06 (0.77),,,64.36 (7.21),"Cilacap Regency, Central Java, Indonesia",200–300,,Undisturbed ,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2280,2016,,,,,22.43 (2.45),,,35.53 (5.34),"Cilacap Regency, Central Java, Indonesia",0–100,,Undisturbed ,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2281,2016,,,,,17.84 (0.44),,,28.55 (4.09),"Cilacap Regency, Central Java, Indonesia",0–100,,Undisturbed ,,,,,,,,,,
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2282,2016,,,,,17.26 (0.28),,,29.01 (1.36),"Cilacap Regency, Central Java, Indonesia",0–100,,Undisturbed ,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
