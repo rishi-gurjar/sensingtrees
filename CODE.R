@@ -9,7 +9,7 @@ library(mapview)
 library(ggpubr)
 library(broom)
 library(AICcmodavg)
-
+library(metafor)
 
 dat <- read.csv("/Users/rishigurjar/Desktop/terrerlab2022/Selected-Atwood_2017_edited_data.csv")
 
@@ -45,7 +45,7 @@ mapview(dat2rev, xcol = "Longitude", ycol = "Latitude", zcol = "Years_collected"
 
 #------------------- Plots of Sasimoto 2019 ----------------
 dat3 <- read.csv("/Users/rishigurjar/Desktop/terrerlab2022/Sasmito_2019.csv")
-view(dat3)
+#view(dat3)
 dat3_sc <- filter(dat3, Type == "Soil carbon stock")
 dat3_acs <- filter(dat3, Type == "Aboveground carbon stock")
 dat3_bcs <- filter(dat3, Type == "Belowground carbon stock")
